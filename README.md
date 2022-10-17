@@ -1,6 +1,6 @@
 # Codewars Problems 
 
-For future reference and storing the solutions to the problems that i have solved
+For future reference and storing the solutions to the problems that i have solved from Codewars
 
 ## Solved Problems
 
